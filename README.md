@@ -70,3 +70,20 @@ rocketseat.com.br (domínio)
 
 De um arquivo que terá na sua sintaxe, declarações, propriedades e valores.
 A partir disoo, o HTML é impactado visualmente.
+
+- declaração
+- seletor
+- propriedade e valor
+
+# JS
+
+- Linguagem de programação
+- Browser
+- Input -> Process -> Output
+- Variáveis
+- Function 
+  - Agrupamento e reuso de código
+  - Sequencia lógica
+  - Saída
+- Gemini (IA): esperar uma resposta
+- Mexer no meu navegador
