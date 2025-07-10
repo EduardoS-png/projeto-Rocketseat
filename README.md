@@ -122,7 +122,7 @@ A partir disoo, o HTML é impactado visualmente.
 
 - Content
 - Delivery
--
+- Network
 
 # LLM
 
@@ -139,5 +139,5 @@ A partir disoo, o HTML é impactado visualmente.
 # Engenharia de prompt
 
 - One shot: uma única pergunta sem muito contexto
-- Few shot: é apresnetado exemplos do que se espera
+- Few shot: é apresenetado exemplos do que se espera
 - Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução
