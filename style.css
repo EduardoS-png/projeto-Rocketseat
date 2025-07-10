@@ -122,3 +122,40 @@ button:hover {
   transform: translateY(-2px);
   box-shadow: 0 5px 1rem rgba(255, 248, 107, 0.2);
 }
+
+button:disabled {
+  transition: initial;
+  transform: initial;
+  box-shadow: initial;
+  cursor: not-allowed;
+  color: black;
+}
+
+#AI-Response {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  border-left: 4px solid #43e7ad;
+}
+
+#AI-Response ul {
+  padding-left: 1.5rem;
+}
+
+#AI-Response p {
+  color: white;
+}
+
+.loading {
+  animation: pulsar 1s infinite;
+}
+
+.hidden {
+  display: none;
+}
+
+@keyframes pulsar {
+  50% {
+    opacity: 0.5;
+  }
+}

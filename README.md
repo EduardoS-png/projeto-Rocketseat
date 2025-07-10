@@ -1,6 +1,7 @@
-# projeto-Rocketseat
+# Projeto-Rocketseat
+# Projeto elaborado em conjunto da Rocketseat
 
-# HTML 
+# HTML
 
 - HyperText
   - Textos puros, livros, revistas, jornais
@@ -9,7 +10,7 @@
 - Markup
   - Marcação
   - Tags: <a> Link </a>
-  - Atributos: <a href="https://rocketseat.com.br">
+  - Atributos: <a href="https://rocketseat.com.br">rocketseat.com.br</a>
   - Globais: id, class, ...
 - Language
   - Linguagem
@@ -23,6 +24,8 @@
 - Protocol
   - Protocolo
   - Conjunto de regras
+- Methods HTTP (verbos): Get, Post, Pacth/Put, Delete
+- Headers (cabeçalhos): Instruções/ Informações extras para cada chamada
 
 # URL
 
@@ -47,7 +50,7 @@ Endereço do computador
 rocketseat.com.br (domínio)
 123.32.1.23 (IP)
 
-# DNS 
+# DNS
 
 - Domain
   - Domínio
@@ -58,12 +61,12 @@ rocketseat.com.br (domínio)
 
 # CSS
 
-- Cascading 
+- Cascading
   - Cascata
   - Regras das escritas
   - Hierarquia
   - Especificidade
-- Style 
+- Style
   - Estilo
 - Sheet
   - Folha
@@ -81,9 +84,60 @@ A partir disoo, o HTML é impactado visualmente.
 - Browser
 - Input -> Process -> Output
 - Variáveis
-- Function 
+- Function
   - Agrupamento e reuso de código
   - Sequencia lógica
   - Saída
 - Gemini (IA): esperar uma resposta
 - Mexer no meu navegador
+- Estrutura de dados
+- Estutura de decisão
+- Algoritmo: sequencia de passos lógica, de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
+- Lógica (Pensamento computacional)
+  - Abstração
+  - Decomposição
+  - Algoritmo
+  - Reconhecimento de padrão
+- Tipos de dados
+  - Number (números)
+  - String (textos) (" ", ' ', ` `)
+  - Boolean: true | false
+  - Objects
+  - ...
+
+# DOM
+
+- Document
+- Object
+- Model
+
+# API
+
+- Application
+- Programming
+- Interface
+- JSON: JavaScript Object Notation
+
+# CDN
+
+- Content
+- Delivery
+-
+
+# LLM
+
+- Large
+- Language
+- Model
+- Gemini, OpenAI (ChatGPT), Anthropic (Claude)...
+
+# Agentes AI
+
+- Tools (ferramentas): permitem uso de código, ou apps, ou qualquer informação extra.
+- Melhor contexto
+
+# Engenharia de prompt
+
+- One shot: uma única pergunta sem muito contexto
+- Few shot: é apresnetado exemplos do que se espera
+- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução
